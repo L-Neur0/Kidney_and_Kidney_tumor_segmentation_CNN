@@ -1,6 +1,8 @@
 Premessa: Sono uno studente del secondo anno di Ingegneria informatica che si sta appassionando alla Computer Vision,
           questo corso e questo progetto sono stati davvero interessanti e utili per capire possibili 'applicazioni' dei miei interseei.
           Detto ciò ho cercato di fare questo progetto il meglio possibile nonostante la poco esperienza e le poco conoscenze in mio possesso.
+          
+          Lorenzo Sciarretta
 
 
 
