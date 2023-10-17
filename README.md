@@ -2,7 +2,10 @@
 Official MICCAI2019 repo: https://github.com/neheller/kits19 
 ##ABOUT: There are more than 400,000 new cases of kidney cancer each year, and surgery is its most common treatment. Due to the wide variety in kidney and kidney tumor morphology, there is currently great         interest in how tumor morphology relates to surgical outcomes, as well as in developing advanced surgical planning techniques. Automatic semantic segmentation is a promising tool for these efforts, but         morphological heterogeneity makes it a difficult problem.
    The goal of this challenge, is to accelerate the development of reliable kidney and kidney tumor semantic segmentation methodologies, and within this repository, you will find my dedicated efforts and          code as an attempt to address this problem.
+
+   
 ![Unknown](https://github.com/L-Neur0/Kits19_BCV_Lorenzo_Sciarretta/assets/135653540/0b318b92-d1fa-436f-a223-8ef16c21409a)
+
  
 ##Acknowledgments
 I would like to express my gratitude to the following individuals and organizations for their valuable contributions, support, and inspiration throughout this project:
@@ -11,6 +14,14 @@ I would like to express my gratitude to the following individuals and organizati
 -Eleonora D'Arnese, PhD, Post-Doc Researcher @Politecnico di Milano.
 -Isabella Poles, PhD Student in Information Technology and Computer Science @Politecnico di Milano.
 -NecstLab, @Politecnico di Milano
+
+## Dataset
+
+You can obtain the dataset by visiting the official KITS19 repository:
+
+[KITS19 GitHub Repository](https://github.com/neheller/kits19)
+
+Once you're on the KITS19 repository, you can follow their instructions to download the dataset. 
 
 
 ## Table of Contents
