@@ -13,8 +13,11 @@ ABOUT: There are more than 400,000 new cases of kidney cancer each year, and sur
 I would like to express my gratitude to the following individuals and organizations for their valuable contributions, support, and inspiration throughout this project:
 
 -Marco Domenico Santambrogio, Full Professor @Politecnico di Milano.
+
 -Eleonora D'Arnese, PhD, Post-Doc Researcher @Politecnico di Milano.
+
 -Isabella Poles, PhD Student in Information Technology and Computer Science @Politecnico di Milano.
+
 -NecstLab, @Politecnico di Milano
 
 ## Dataset
