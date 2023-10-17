@@ -1,13 +1,15 @@
 # KITS2019 Segmentation Challenge
+
 Official MICCAI2019 repo: https://github.com/neheller/kits19 
-##ABOUT: There are more than 400,000 new cases of kidney cancer each year, and surgery is its most common treatment. Due to the wide variety in kidney and kidney tumor morphology, there is currently great         interest in how tumor morphology relates to surgical outcomes, as well as in developing advanced surgical planning techniques. Automatic semantic segmentation is a promising tool for these efforts, but         morphological heterogeneity makes it a difficult problem.
+
+ABOUT: There are more than 400,000 new cases of kidney cancer each year, and surgery is its most common treatment. Due to the wide variety in kidney and kidney tumor morphology, there is currently great         interest in how tumor morphology relates to surgical outcomes, as well as in developing advanced surgical planning techniques. Automatic semantic segmentation is a promising tool for these efforts, but         morphological heterogeneity makes it a difficult problem.
    The goal of this challenge, is to accelerate the development of reliable kidney and kidney tumor semantic segmentation methodologies, and within this repository, you will find my dedicated efforts and          code as an attempt to address this problem.
 
    
 ![Unknown](https://github.com/L-Neur0/Kits19_BCV_Lorenzo_Sciarretta/assets/135653540/0b318b92-d1fa-436f-a223-8ef16c21409a)
 
  
-##Acknowledgments
+## Acknowledgments
 I would like to express my gratitude to the following individuals and organizations for their valuable contributions, support, and inspiration throughout this project:
 
 -Marco Domenico Santambrogio, Full Professor @Politecnico di Milano.
@@ -66,6 +68,7 @@ Once you're on the KITS19 repository, you can follow their instructions to downl
 4. Define the optimizer and loss function for model training.
 5. Train the model using the `train_model` function.
 6. Finally, perform image segmentation using the trained model.
+
 
 
 Please note that this project is a part of my academic coursework, and it is not intended to be a perfect or production-ready solution.
