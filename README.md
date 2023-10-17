@@ -6,7 +6,7 @@ ABOUT: There are more than 400,000 new cases of kidney cancer each year, and sur
    The goal of this challenge, is to accelerate the development of reliable kidney and kidney tumor semantic segmentation methodologies, and within this repository, you will find my dedicated efforts and          code as an attempt to address this problem.
 
    
-![Unknown](https://github.com/L-Neur0/Kits19_BCV_Lorenzo_Sciarretta/assets/135653540/0b318b92-d1fa-436f-a223-8ef16c21409a)
+![Unknown](https://github.com/L-Neur0/Kits19_BCV_Lorenzo_Sciarretta/assets/135653540/b4bca2f1-d6cc-458c-8dfe-d0f5ee7c2395)
 
  
 ## Acknowledgments
