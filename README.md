@@ -1,4 +1,4 @@
-# KITS2019 Segmentation Challenge
+# KITS19 Segmentation Challenge
 
 Official MICCAI2019 repo: https://github.com/neheller/kits19 
 
